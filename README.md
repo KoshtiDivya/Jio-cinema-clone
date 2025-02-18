@@ -15,3 +15,5 @@ A **JioCinema-inspired** movie streaming web app built using **React, HTML, CSS,
 - **State Management:** React Hooks  
 
 ## 📸 Screenshots
+<img src="https://github.com/KoshtiDivya/Jio-cinema-clone/blob/main/jioCinema%20clone%20(1).png" width="80%" alt="preview">
+<img src="https://github.com/KoshtiDivya/Jio-cinema-clone/blob/main/jioCinema%20clone%20(2).png" width="80%" alt="preview">
